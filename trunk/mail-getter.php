@@ -3,7 +3,7 @@
 Plugin Name: Mail Getter
 Plugin URI: http://cibergeek.com/mail-getter
 Description: This plugin helps you retrieve the mails from posts comments.
-Version: 0.8
+Version: 0.9
 Author: Tomas Cot
 Author URI: http://cibergeek.com/
 Author Email: tomascot@gmail.com

@@ -4,7 +4,7 @@ Contributors: tomascot
 Tags: Mail, comments, get comments
 Requires at least: ...
 Tested up to: 3.2.1
-Stable tag: 0.8
+Stable tag: 0.9
 
 
 This plugin is intended to manage emails from post comments
@@ -16,8 +16,7 @@ in one post.
 
 You enter the Post ID and the plugin will retrieve the emails.
 
-You can choose between all the comments or the approved ones, in future version
-you´ll be able to choose between approved, pending approval or all comments.
+You can choose to get approved, pending or ALL comments
 
 Also in the next version I will try to improve the method to get the Post ID.
 
@@ -41,3 +40,7 @@ there you can see that says post=200, that the Post ID.
 2- Mail Getter UI, with a list of mails
 
 == Changelog ==
+
+==0.9==
+
+In this version you can select between approved, pending or all comments.
