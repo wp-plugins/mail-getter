@@ -23,6 +23,7 @@ Also in the next version I will try to improve the method to get the Post ID.
 == Installation ==
 
 1- Upload the plugin folder to your WP plugin folder (typically /wp-content/plugins)
+
 2- Go to the Administrator >> Plugin and activate Mail Getter.
 
 == FAQ ==
@@ -30,7 +31,7 @@ Also in the next version I will try to improve the method to get the Post ID.
 ¿How can I get the Post ID?
 
 When you are in the administrator, go to Posts (english version) and the Edit option
-will have an anchor that looks like this http://www.cibergeek.com/wp-admin/post.php?post=220&action=edit
+will have an anchor that looks like this http://www.example.com/wp-admin/post.php?post=220&action=edit
 there you can see that says post=200, that the Post ID.
 
 == Screenshot ==
